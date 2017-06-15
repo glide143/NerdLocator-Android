@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331026654849",
+    "firebase_url": "https://sample-database-practise.firebaseio.com",
+    "project_id": "sample-database-practise",
+    "storage_bucket": "sample-database-practise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331026654849:android:0dced8cd9f7dbad7",
+        "android_client_info": {
+          "package_name": "com.example.melchy.camera2apiexampleusingtempfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331026654849-p9nstdoh0dacpeheto8vmplck1f0nldb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melchy.camera2apiexampleusingtempfile",
+            "certificate_hash": "911b1fdde866dfb8005fd23f9ebd6ca988817f40"
+          }
+        },
+        {
+          "client_id": "331026654849-an2ff5j5nbfg8anekm5m3vlimmh97mcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3lB7sFMk4IoQflRyC0y0wgei1c1qizIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331026654849-an2ff5j5nbfg8anekm5m3vlimmh97mcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
